@@ -1,0 +1,11 @@
+{
+	"name": "daigo-badges",
+	"description": "The badges package for Daigo",
+	"homepage": "https://github.com/meteor-daigo/daigo-badges",
+	"author": "The Daigo Team",
+	"version": "0.1.0",
+	"git": "https://github.com/meteor-daigo/daigo-badges.git",
+	"packages": {
+		"smart-collections": {}
+	}
+}
